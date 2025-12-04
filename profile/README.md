@@ -1,4 +1,8 @@
-<head></head><br><br><br><br>
+<head>
+  <div align="center">
+    <img width="260" height="290" alt="XTRHYLL LOGO2" src="https://github.com/user-attachments/assets/5fc22a57-5298-4a73-a389-a2e705ecc57f" />
+  </div>
+</head><br><br>
 
 <body align="left">
   <text>
@@ -21,12 +25,9 @@
       Innovative solutions with global impact to change the world, bringing safety and progress to society — Never substitution, always addition.
     </p>
   </text>
-</body><br><br><br><br><br><br><br>
+</body><br><br><br>
 
 <footer>
-  <div align="center">
-    <img width="260" height="290" alt="XTRHYLL LOGO2" src="https://github.com/user-attachments/assets/5fc22a57-5298-4a73-a389-a2e705ecc57f" />
-  </div>
   <div align="center">
     <h6>©2026 &ensp;X T R H Y L L&ensp;C O R P O R A T I O N</h6>
   </div>
