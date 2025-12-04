@@ -1,3 +1,9 @@
+<head>
+  <div align="center">
+    <img width="260" height="290" alt="XTRHYLL LOGO2" src="https://github.com/user-attachments/assets/5fc22a57-5298-4a73-a389-a2e705ecc57f" />
+  </div>
+</head><br><br>
+
 <body align="left">
   <text>
     <h5><a href="#"><img width="170" height="56" alt="We Are Born" src="https://github.com/user-attachments/assets/9f7c6202-9e1a-483a-b141-1953857cc7a3" />
